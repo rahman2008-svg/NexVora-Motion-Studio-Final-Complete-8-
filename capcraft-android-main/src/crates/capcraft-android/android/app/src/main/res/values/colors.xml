@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nv_background">#FF03040B</color>
+    <color name="nv_background_secondary">#FF070A16</color>
+    <color name="nv_surface">#FF10152C</color>
+    <color name="nv_purple">#FF7B2CFF</color>
+    <color name="nv_purple_light">#FFC026FF</color>
+    <color name="nv_blue">#FF245BFF</color>
+    <color name="nv_cyan">#FF00D9FF</color>
+    <color name="nv_neon">#FFA020F0</color>
+    <color name="nv_text_primary">#FFFFFFFF</color>
+    <color name="nv_text_secondary">#FF8993B8</color>
+    <color name="nv_divider">#FF252D49</color>
+</resources>
